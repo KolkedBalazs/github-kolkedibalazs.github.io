@@ -1,0 +1,52 @@
+.Skywalker
+{background-image:url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+width:1220px;
+height:500px;
+background-position:center;
+background-size:cover;
+  display:flex;
+flex-direction:column-reverse;
+align-items:center;
+}
+
+  #Jedi{display:inline-block;
+font-family:Stencil;
+font-size:40px;padding:0px;
+margin:-10px;}
+}
+h3{padding:0px;
+margin: 0px;
+  text-align:center;
+font-family:Stencil;
+font-size:40px;
+  text-indent:-230px;}
+
+h1{padding:0px;
+margin:0px;
+  text-align:center;
+font-family:Stencil;
+font-size:60px;}
+
+h5{text-align:center;
+font-family:Josefin Sans;
+font-size:20px;}
+ul{font-family: Josefin Sans;
+font-size:20px;
+color:black;
+margin-left:auto;
+margin-right:auto;}
+#Csuvi{display:flex;
+  align-items:center;
+  flex-direction:row;
+margin:30px;}
+
+#Rule{background-color: #343434;
+  color:white;
+width:500px;
+height:50px;
+font-family:Bernard Mt Condensed;
+font-size:40px;
+  padding:10px;
+    margin-left:auto;
+  margin-right:auto;
+text-align:center;}
